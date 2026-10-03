@@ -1,6 +1,6 @@
 Campfire Privacy Policy
 
-Last updated: October 1, 2026
+Last updated: October 3, 2026
 
 This policy explains how the Campfire iOS app, its developer, and this privacy page handle information. In this policy, “I” means the developer of Campfire. For privacy questions, contact tribune_fictive.3u@icloud.com.
 
@@ -14,15 +14,15 @@ Campfire does not provide an account-based cloud sync service or automatically u
 
 News updates and external websites
 
-Campfire connects directly to Blizzard’s public forums to retrieve news. Refreshes may happen automatically while the app is open, when you refresh manually, and during permitted background checks for enabled alerts. Turning off notifications does not stop news refreshes while using the app.
+Campfire downloads the developer’s original patch summaries from the public Campfire Patch Digest, hosted through GitHub Pages. The digest is freely available without an account. Refreshes may happen while the app is open, when you refresh manually, and during permitted background checks for enabled alerts. Turning off notifications does not stop news refreshes while using the app. The current app does not automatically retrieve Blizzard forum post bodies; opening an official source is your choice.
 
-These connections expose ordinary network information to the receiving service, such as your IP address, request time, requested public content and an app-identifying request header. Campfire does not include your saved plans, notes or quest progress in these requests and does not use your Blizzard login. Blizzard handles information it receives under its privacy policy.
+These connections expose ordinary network information to GitHub, such as your IP address, request time, requested public content and an app-identifying request header. Campfire does not include your saved plans, notes, class follows or quest progress in these requests and does not use your Blizzard login. GitHub handles information it receives under its Privacy Statement. Earlier development builds retrieved public forum news directly from Blizzard; those requests were subject to Blizzard’s privacy policy.
 
 If you open a source, guide or video link, the destination website or app handles your visit under its own privacy policy and may use cookies or other tracking technologies. Campfire does not control those services.
 
 Optional notifications
 
-News alerts are off by default. If you enable them and grant permission, Campfire creates local notifications on your device for new or updated official posts. Notification preferences and alert history are stored locally. Campfire does not send a push-notification device token to a developer-operated server.
+News alerts are off by default. If you enable them and grant permission, Campfire creates local notifications on your device for new or revised Campfire summaries. These are selected editorial updates, not an instant alert for every official post or edit. Notification preferences and alert history are stored locally. Campfire does not send a push-notification device token to a developer-operated server.
 
 You can turn alerts off in Campfire or revoke notification permission in iOS Settings. iOS controls when background checks run.
 
@@ -50,7 +50,7 @@ For information you have sent me, you may request access, correction or deletion
 
 This privacy page
 
-This page is hosted using GitHub Pages. GitHub logs visitors’ IP addresses for security purposes, as described in its GitHub Pages documentation and Privacy Statement. This page does not add analytics scripts, advertising or tracking cookies.
+This privacy page and the public Campfire Patch Digest, including its JSON feed, are hosted using GitHub Pages. GitHub logs visitors’ IP addresses for security purposes, as described in its GitHub Pages documentation and Privacy Statement. These pages do not add analytics scripts, advertising or tracking cookies, and do not require an account or payment.
 
 Children’s privacy
 
