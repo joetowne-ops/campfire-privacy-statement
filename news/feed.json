@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": 2,
+  "publisher": "campfire",
+  "sequence": 1,
+  "generatedAt": "2026-10-03T18:25:55Z",
+  "sourceCheckedAt": "2026-10-03T12:03:34.559734+00:00",
+  "posts": [
+    {
+      "id": "blizzard:us:topic:2352687:post:6",
+      "title": "October 1 known issues",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/6",
+      "publishedAt": "2026-10-01T22:56:59.145Z",
+      "updatedAt": "2026-10-01T22:56:59.145Z",
+      "sourceRevision": "82d06a53ac1e5acd99e498df42fa94452a2d22f958e2d3ef65b44e56d70c6313",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "editorial": {
+        "publishedAt": "2026-10-03T18:25:55Z",
+        "updatedAt": "2026-10-03T18:25:55Z",
+        "revision": "7455234f889a2b9c43f65101763cbfe67256b82d82eead70a21e1250eb2f65b1"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2359185:post:1",
+      "title": "Auto Shot correction planned",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/auto-shoot-bug-and-fix-incoming/2359185",
+      "publishedAt": "2026-09-23T16:29:31.854Z",
+      "updatedAt": "2026-09-23T16:29:31.854Z",
+      "sourceRevision": "310434f4877dc766de434ceeff60d4761d288127d2a4e80c0b6a777583243fe2",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "editorial": {
+        "publishedAt": "2026-10-03T18:25:55Z",
+        "updatedAt": "2026-10-03T18:25:55Z",
+        "revision": "a2d949a08dd61068a0c65031165140f77e63682023bf55a0cd923af31810d3a8"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2360696:post:1",
+      "title": "September 24 beta tuning",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+      "publishedAt": "2026-09-24T22:23:24.849Z",
+      "updatedAt": "2026-10-01T23:00:31.411Z",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "editorial": {
+        "publishedAt": "2026-10-03T18:25:55Z",
+        "updatedAt": "2026-10-03T18:25:55Z",
+        "revision": "49a2fa5cf15d895eb69b16cd7e59979a2d45d006ffaec6dd6bf4d9a657ca62e7"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2360696:post:4",
+      "title": "October 1 beta tuning",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+      "publishedAt": "2026-10-01T22:56:04.517Z",
+      "updatedAt": "2026-10-02T02:55:30.058Z",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "editorial": {
+        "publishedAt": "2026-10-03T18:25:55Z",
+        "updatedAt": "2026-10-03T18:25:55Z",
+        "revision": "b857155684539e595266ee74c565b92c10f30093c159ad265420dbb27be4be62"
+      }
+    }
+  ],
+  "notes": [
+    {
+      "entry": {
+        "id": "blizzard-forum-2359185-post-1:hunter-auto-shot-windup-planned",
+        "className": "Hunter",
+        "ability": "Auto Shot wind-up",
+        "summary": "A correction is planned for Auto Shot and wand wind-up. Timing and delivery remain unconfirmed.",
+        "impact": "fix",
+        "valueText": "Unknown → 0.5 s",
+        "date": "2026-09-23",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/auto-shoot-bug-and-fix-incoming/2359185",
+        "postTitle": "Auto Shot correction planned",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2359185:post:1",
+      "sourceRevision": "310434f4877dc766de434ceeff60d4761d288127d2a4e80c0b6a777583243fe2",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:druid-primal-bite-rename",
+        "className": "Druid",
+        "ability": "Primal Bite",
+        "summary": "Mangle is renamed; its signature debuff is removed.",
+        "impact": "unclear",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:druid-rejuvenation-crit",
+        "className": "Druid",
+        "ability": "Rejuvenation",
+        "summary": "Critical healing now works.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:druid-wrath-relative-damage",
+        "className": "Druid",
+        "ability": "Wrath",
+        "summary": "Base damage rises by roughly half.",
+        "impact": "buff",
+        "valueText": "≈ +50% relative",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:hunter-furious-howl-relative-ap",
+        "className": "Hunter",
+        "ability": "Furious Howl",
+        "summary": "The pet attack-power bonus is reduced.",
+        "impact": "nerf",
+        "valueText": "-40% relative",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:hunter-sonic-blast-availability",
+        "className": "Hunter",
+        "ability": "Sonic Blast",
+        "summary": "Bat pets can use the ability.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:mage-hot-streak-duration",
+        "className": "Mage",
+        "ability": "Hot Streak",
+        "summary": "The proc lasts longer.",
+        "impact": "buff",
+        "valueText": "15 s → 20 s",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:mage-ignite-fix",
+        "className": "Mage",
+        "ability": "Ignite",
+        "summary": "Damage multipliers no longer apply twice. Gameplay impact needs review.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:mage-wake-duration",
+        "className": "Mage",
+        "ability": "Wake of Fire",
+        "summary": "More time to use the buff between fights.",
+        "impact": "buff",
+        "valueText": "20 s → 30 s",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:paladin-holy-strike-cooldown",
+        "className": "Paladin",
+        "ability": "Holy Strike",
+        "summary": "Shorter cooldown; listed under Holy.",
+        "impact": "buff",
+        "valueText": "12 s → 10 s",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:paladin-holy-strike-rank-coefficients",
+        "className": "Paladin",
+        "ability": "Holy Strike rank scaling",
+        "summary": "Rank 1 stays at 25%; ranks 2–8 increase. These are weapon-damage coefficients, not total DPS. The issue list still promises a fix.",
+        "impact": "buff",
+        "valueText": "7 increased · 1 unchanged",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:paladin-righteous-fury-conflict",
+        "className": "Paladin",
+        "ability": "Righteous Fury",
+        "summary": "The wording and numeric direction disagree. Await clarification.",
+        "impact": "unclear",
+        "valueText": "90% → 60%",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:paladin-sacred-arbiter-holy-strike",
+        "className": "Paladin",
+        "ability": "Sacred Arbiter",
+        "summary": "The Holy Strike damage bonus increases.",
+        "impact": "buff",
+        "valueText": "10% → 20%",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:paladin-vengeance-activation",
+        "className": "Paladin",
+        "ability": "Vengeance activation",
+        "summary": "The update limits activation to non-periodic critical hits. The issue list still promises a fix; this is separate from the stack-limit change.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:paladin-vengeance-stack-limit",
+        "className": "Paladin",
+        "ability": "Vengeance",
+        "summary": "The maximum stack count falls.",
+        "impact": "nerf",
+        "valueText": "5 stacks → 3 stacks",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:priest-renew-crit",
+        "className": "Priest",
+        "ability": "Renew",
+        "summary": "Critical healing now works.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:priest-starshards-twilight-focus",
+        "className": "Priest",
+        "ability": "Starshards / Twilight Focus",
+        "summary": "The update reports Twilight Focus pushback protection working for Starshards. The issue list still promises a fix; delivery build is unknown.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:rogue-sap-pvp-flag",
+        "className": "Rogue",
+        "ability": "Sap",
+        "summary": "Sapping a PvP-flagged target flags the Rogue.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:shaman-lightning-bolt-low-ranks",
+        "className": "Shaman",
+        "ability": "Lightning Bolt",
+        "summary": "Ranks three and four gain damage; exact values are unstated.",
+        "impact": "unclear",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:shaman-riptide-crit",
+        "className": "Shaman",
+        "ability": "Riptide",
+        "summary": "Critical healing now works.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:warlock-sacrifice-scaling",
+        "className": "Warlock",
+        "ability": "Voidwalker Sacrifice",
+        "summary": "Shield scaling uses ten percent of spell healing.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:warrior-bloodthrill-rank-five",
+        "className": "Warrior",
+        "ability": "Bloodthrill",
+        "summary": "Higher top-rank proc chance; eligible attacks also changed.",
+        "impact": "buff",
+        "valueText": "10% → 20%",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-1:warrior-slam-cooldown",
+        "className": "Warrior",
+        "ability": "Slam",
+        "summary": "Longer base cooldown; a separate talent can reduce it.",
+        "impact": "nerf",
+        "valueText": "15 s → 18 s",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:druid-swipe-ap-scaling",
+        "className": "Druid",
+        "ability": "Swipe",
+        "summary": "Swipe gains 3% of attack power; its tooltip correction is still pending.",
+        "impact": "fix",
+        "valueText": "Unknown → 3%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:hunter-deflection-rank-five",
+        "className": "Hunter",
+        "ability": "Deflection",
+        "summary": "The fifth rank grants less parry.",
+        "impact": "nerf",
+        "valueText": "10% → 5%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:mage-combustion-charges",
+        "className": "Mage",
+        "ability": "Combustion",
+        "summary": "Combustion has one fewer charge.",
+        "impact": "nerf",
+        "valueText": "4 → 3",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:paladin-holy-shield-block",
+        "className": "Paladin",
+        "ability": "Holy Shield",
+        "summary": "Holy Shield provides a larger block chance bonus.",
+        "impact": "buff",
+        "valueText": "20% → 30%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:priest-devouring-plague-crit",
+        "className": "Priest",
+        "ability": "Devouring Plague",
+        "summary": "Devouring Plague can critically strike.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:rogue-expose-armor-miss",
+        "className": "Rogue",
+        "ability": "Expose Armor",
+        "summary": "A missed Expose Armor no longer removes all combo points.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:shaman-totemic-recall-mana",
+        "className": "Shaman",
+        "ability": "Totemic Recall",
+        "summary": "Totemic Recall restores mana again.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:warlock-hellfire-crit",
+        "className": "Warlock",
+        "ability": "Hellfire",
+        "summary": "Hellfire can critically strike.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-4:warrior-bloodthirst-ap-ratio",
+        "className": "Warrior",
+        "ability": "Bloodthirst",
+        "summary": "Bloodthirst gains a larger attack-power contribution.",
+        "impact": "buff",
+        "valueText": "35% → 45%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta tuning",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:barbers",
+        "className": "Gameplay",
+        "ability": "More city barbershops",
+        "summary": "Darnassus and Thunder Bluff gain barbershops. Staff are present at the shops, and city guards can give directions.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:camping",
+        "className": "Gameplay",
+        "ability": "Safer campfires and clearer camp buffs",
+        "summary": "Campfires no longer damage characters below level five and deal less damage when a character is below ninety percent health. Camp feature wording now clarifies which buffs cannot be combined.",
+        "impact": "updated",
+        "valueText": "No campfire damage below level 5; reduced damage below 90% health",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:cooldowns",
+        "className": "Gameplay",
+        "ability": "Cooldown tracking adds Rogue and racials",
+        "summary": "The Cooldown Manager now covers Rogue and racial abilities. Previously supported classes should no longer show duplicate entries for different ranks of the same spell.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:druid-disarm",
+        "className": "Druid",
+        "ability": "Shapeshift and Disarm",
+        "summary": "Forms prevent new Disarm effects. Shifting after a Disarm does not remove the existing effect, and its damage penalty continues.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:druid-shifting-power",
+        "className": "Druid",
+        "ability": "New Feral energy conversion",
+        "summary": "Shifting Power trades mana for Cat energy, with a follow-on talent shortening its cooldown. Effects that discount shapeshifting also discount its mana cost.",
+        "impact": "redesign",
+        "valueText": "55% base mana → 40 Energy; 16s cooldown; talent reduction 4/8s",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:dungeon-access",
+        "className": "Dungeons",
+        "ability": "Wetlands excavation and expanded dungeon access",
+        "summary": "The beta adds Excavation Site: Wetlands and opens Razorfen Downs and Uldaman. These are the announced beta access ranges, not confirmed replacement recommendations for every Classic guide.",
+        "impact": "updated",
+        "valueText": "Excavation Site: 26–31 · Razorfen Downs: 25+ · Uldaman: 30+",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "dungeons"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:dungeon-xp",
+        "className": "Dungeons",
+        "ability": "Dungeon quest bonus XP is reduced",
+        "summary": "The extra XP awarded above a normal quest’s value is cut in half. This does not say total dungeon quest XP is halved. Some rewards were also adjusted without a complete per-quest list.",
+        "impact": "nerf",
+        "valueText": "Extra XP above normal quest values: −50%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "dungeons"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:gamepad",
+        "className": "Gameplay",
+        "ability": "Gamepad support expands",
+        "summary": "The pet stable and compact party/raid controls receive gamepad support. Gamepad UI bindings remain fixed; rebinding affects the keyboard and mouse interface. Moving macros from a gamepad bar is also reported fixed.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:gathering-vendors",
+        "className": "Professions",
+        "ability": "Wand values and gathering behavior change",
+        "summary": "Crafted common and uncommon wands now sell to vendors for one copper. Starter zones have fewer Poor Copper Veins, and each creature can again be skinned only once.",
+        "impact": "updated",
+        "valueText": "Common/uncommon crafted wands: vendor value 1 copper",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "professions"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:honor",
+        "className": "PvP",
+        "ability": "Honor prices and currency cap increase",
+        "summary": "Most PvP gear and upgrade tokens cost roughly half again as much Honor. The higher currency cap makes room for these prices; check individual item costs rather than assuming every price changed equally.",
+        "impact": "updated",
+        "valueText": "Most costs: approximately +50% · Honor cap: 15,000 → 25,000",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "pvp"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:hunter-sniper-shot",
+        "className": "Hunter",
+        "ability": "Sniper Shot range window",
+        "summary": "The shot reaches 45 yards and temporarily extends the range of your next three shots. Plan the follow-up shots inside the ten-second window.",
+        "impact": "updated",
+        "valueText": "45-yard range; next 3 shots gain 10 yards within 10s",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:level-cap",
+        "className": "Gameplay",
+        "ability": "Beta leveling reaches 30",
+        "summary": "Characters can progress to level 30 in this update. Campfire’s higher-level reference guides are planning material; this announcement does not make all of that content beta-playable.",
+        "impact": "updated",
+        "valueText": "Current announced beta ceiling: level 30",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:mage-evocation",
+        "className": "Mage",
+        "ability": "Evocation requires standing still",
+        "summary": "Moving can no longer be combined with Evocation. Choose a safe position before channeling.",
+        "impact": "nerf",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:mage-heating-up",
+        "className": "Mage",
+        "ability": "Hot Streak becomes Heating Up",
+        "summary": "The Fire proc has a new name. Look for Heating Up when reviewing your talents and buffs. This is a rename, not a separate second proc.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:paladin-champion",
+        "className": "Paladin",
+        "ability": "Champion of the Light conversion",
+        "summary": "Less Intellect is converted into spell damage. The removed healing claim was a tooltip error; this talent did not grant healing.",
+        "impact": "nerf",
+        "valueText": "Ranks 1–3: 33/66/100% → 20/40/60%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:paladin-redoubt",
+        "className": "Paladin",
+        "ability": "Redoubt block chance",
+        "summary": "Every rank grants less block chance. Holy Shield receives a separate increase in this update.",
+        "impact": "nerf",
+        "valueText": "Ranks 1–5: 6/12/18/24/30% → 4/8/12/16/20%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:rear-block",
+        "className": "Known issues",
+        "ability": "Close-range attacks can be parried from behind",
+        "summary": "Enemies may block or parry attacks from behind when the attacker is very close. The reported workaround is to leave more space. This remains an issue report, not a verified fix.",
+        "impact": "unclear",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/6",
+        "postTitle": "October 1 known issues",
+        "isPlanned": true,
+        "category": "known_issues"
+      },
+      "postID": "blizzard:us:topic:2352687:post:6",
+      "sourceRevision": "82d06a53ac1e5acd99e498df42fa94452a2d22f958e2d3ef65b44e56d70c6313",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:recipe-drops",
+        "className": "Professions",
+        "ability": "More dungeon recipe drops are available",
+        "summary": "The update enables a group of intended random dungeon drops for Blacksmithing and Leatherworking. It does not identify every recipe, location or drop probability, so individual unconfirmed origins remain marked in the crafting guides.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "professions"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:respawns",
+        "className": "Gameplay",
+        "ability": "Questing respawns are adjusted",
+        "summary": "Many creatures and objects respawn faster in Hillsbrad Foothills, Ashenvale, Wetlands, Duskwood and Thousand Needles. This is a zone-wide selected summary; individual timers are not supplied.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:threat-aura",
+        "className": "Known issues",
+        "ability": "Debuff threat and Retribution Aura remain under review",
+        "summary": "Some debuffs, including Faerie Fire and Demoralizing Shout, fail to generate threat. Retribution Aura incorrectly uses the target’s spell power. The issue list also conflicts with the update’s Dual Wield Specialization correction; no delivery build is confirmed.",
+        "impact": "unclear",
+        "valueText": "",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/6",
+        "postTitle": "October 1 known issues",
+        "isPlanned": true,
+        "category": "known_issues"
+      },
+      "postID": "blizzard:us:topic:2352687:post:6",
+      "sourceRevision": "82d06a53ac1e5acd99e498df42fa94452a2d22f958e2d3ef65b44e56d70c6313",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:warrior-fury",
+        "className": "Warrior",
+        "ability": "Fury talent routes change",
+        "summary": "New talents support Rage retention, off-hand accuracy and healing after selected Rage abilities. Whirlwind uses both weapons without a talent point. Flurry now requires Death Wish instead of Enrage; review your build rather than assuming the old route still applies.",
+        "impact": "redesign",
+        "valueText": "Lingering Rage: +2/4/6/8/10s before decay; Furious Precision: +4/7/10% off-hand hit",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct1:warrior-rage-conflict",
+        "className": "Warrior",
+        "ability": "Critical-hit Rage needs clarification",
+        "summary": "Two lines in the same update give different values for extra Rage from basic-attack critical hits. Campfire is keeping the conflict visible instead of choosing an unsupported result.",
+        "impact": "conflict",
+        "valueText": "Source lists both +75% and +100%",
+        "date": "2026-10-01",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/4",
+        "postTitle": "October 1 beta digest",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:4",
+      "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:sep24:respec",
+        "className": "Gameplay",
+        "ability": "Temporary beta talent reset discount",
+        "summary": "A talent reset costs one silver after sufficient time since the last reset. Repeated resets initially cost more, returning to one silver after an hour. This is a beta testing rule, not a permanent live-game price.",
+        "impact": "updated",
+        "valueText": "Discounted reset: 1 silver · discount returns after 1 hour",
+        "date": "2026-09-24",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
+        "postTitle": "September 24 beta digest",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:1",
+      "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
+      "reviewStatus": "approved"
+    }
+  ]
+}
