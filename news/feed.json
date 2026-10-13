@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 1,
-  "generatedAt": "2026-10-03T18:25:55Z",
-  "sourceCheckedAt": "2026-10-03T12:03:34.559734+00:00",
+  "sequence": 2,
+  "generatedAt": "2026-10-13T22:49:25Z",
+  "sourceCheckedAt": "2026-10-13T13:01:28.282399+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -19,6 +19,22 @@
         "publishedAt": "2026-10-03T18:25:55Z",
         "updatedAt": "2026-10-03T18:25:55Z",
         "revision": "7455234f889a2b9c43f65101763cbfe67256b82d82eead70a21e1250eb2f65b1"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2352687:post:7",
+      "title": "WoW Forever Beta Known Issues - October 8",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/7",
+      "publishedAt": "2026-10-08T21:38:40.335Z",
+      "updatedAt": "2026-10-08T21:38:40.335Z",
+      "sourceRevision": "78f845f1277f3ee9679d4e794ced03832ed84d7e0d66bd9c13c7d8d46ee07d62",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "editorial": {
+        "publishedAt": "2026-10-13T22:49:25Z",
+        "updatedAt": "2026-10-13T22:49:25Z",
+        "revision": "ae8259b6c2f06d77bd5a0b6c250697083f95538a41d523729eee8c63cde4e6c0"
       }
     },
     {
@@ -42,7 +58,7 @@
       "title": "September 24 beta tuning",
       "sourceURL": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696",
       "publishedAt": "2026-09-24T22:23:24.849Z",
-      "updatedAt": "2026-10-01T23:00:31.411Z",
+      "updatedAt": "2026-10-08T21:32:46.706Z",
       "sourceRevision": "72a879c67689b00e3672533e8af83823fd9ddf16e3b2b7fd92ef4dec88785470",
       "stage": "beta",
       "product": "wow_forever",
@@ -68,9 +84,79 @@
         "updatedAt": "2026-10-03T18:25:55Z",
         "revision": "b857155684539e595266ee74c565b92c10f30093c159ad265420dbb27be4be62"
       }
+    },
+    {
+      "id": "blizzard:us:topic:2360696:post:5",
+      "title": "WoW Forever Beta Development Notes – Updated October 8",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+      "publishedAt": "2026-10-08T21:32:38.124Z",
+      "updatedAt": "2026-10-08T21:32:38.124Z",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "editorial": {
+        "publishedAt": "2026-10-13T22:49:25Z",
+        "updatedAt": "2026-10-13T22:49:25Z",
+        "revision": "ecad331dda625f0af7f8eec356316cb19d060085ab0e60e63298694d7e39ff27"
+      }
     }
   ],
   "notes": [
+    {
+      "entry": {
+        "id": "blizzard-forum-2352687-post-7:ferocity-display",
+        "className": "World",
+        "ability": "Ferocity pet critical-strike display",
+        "summary": "The pet character sheet can show the wrong critical-strike value for Ferocity. Blizzard says the actual gameplay effect is unaffected.",
+        "impact": "known issue",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/7",
+        "postTitle": "WoW Forever Beta Known Issues - October 8",
+        "isPlanned": false,
+        "category": "known_issues"
+      },
+      "postID": "blizzard:us:topic:2352687:post:7",
+      "sourceRevision": "78f845f1277f3ee9679d4e794ced03832ed84d7e0d66bd9c13c7d8d46ee07d62",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2352687-post-7:pending-textures",
+        "className": "World",
+        "ability": "Unfinished beta textures",
+        "summary": "Blizzard lists some creature, mount and other textures as unfinished. Visual updates remain pending.",
+        "impact": "known issue",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/7",
+        "postTitle": "WoW Forever Beta Known Issues - October 8",
+        "isPlanned": false,
+        "category": "known_issues"
+      },
+      "postID": "blizzard:us:topic:2352687:post:7",
+      "sourceRevision": "78f845f1277f3ee9679d4e794ced03832ed84d7e0d66bd9c13c7d8d46ee07d62",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2352687-post-7:profession-icons",
+        "className": "World",
+        "ability": "Profession icon display",
+        "summary": "Some profession icons are broken in the beta. This is a reported display issue, not a confirmed fix.",
+        "impact": "known issue",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2352687/7",
+        "postTitle": "WoW Forever Beta Known Issues - October 8",
+        "isPlanned": false,
+        "category": "known_issues"
+      },
+      "postID": "blizzard:us:topic:2352687:post:7",
+      "sourceRevision": "78f845f1277f3ee9679d4e794ced03832ed84d7e0d66bd9c13c7d8d46ee07d62",
+      "reviewStatus": "approved"
+    },
     {
       "entry": {
         "id": "blizzard-forum-2359185-post-1:hunter-auto-shot-windup-planned",
@@ -613,6 +699,249 @@
       },
       "postID": "blizzard:us:topic:2360696:post:4",
       "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:dalaran-testing",
+        "className": "World",
+        "ability": "City of Dalaran beta dungeon",
+        "summary": "Blizzard opened the City of Dalaran dungeon for beta testing on October 8. This announcement does not provide a verified boss roster or complete loot tables.",
+        "impact": "update",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false,
+        "category": "dungeons"
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:desolace-quest-level",
+        "className": "World",
+        "ability": "Gelkis / Magram quest access",
+        "summary": "The Desolace chain beginning with Valley of Bones now starts at level 35 instead of 30.",
+        "impact": "update",
+        "valueText": "Quest minimum: 30 → 35",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:desolace-reward-level-planned",
+        "className": "World",
+        "ability": "Desolace reward requirements",
+        "summary": "Matching level-35 equip requirements for rewards from that chain were announced for a future hotfix. The October 8 post does not confirm that this reward change has shipped.",
+        "impact": "update",
+        "valueText": "Planned equip minimum: level 35",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:druid-bear-threat-oct8",
+        "className": "Druid",
+        "ability": "Bear / Dire Bear Form",
+        "summary": "Blizzard reports a higher threat bonus for both bear forms. This supports tank threat; it is not a claim about total damage.",
+        "impact": "buff",
+        "valueText": "Threat bonus: 30% → 50%",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:druid-thorns-oct8",
+        "className": "Druid",
+        "ability": "Thorns",
+        "summary": "Thorns gains less damage from spell power, and its base damage returns to Vanilla values. This is a reduction in the stated scaling.",
+        "impact": "nerf",
+        "valueText": "Spell-power coefficient: 13.3% → 6%",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:dungeon-kill-xp",
+        "className": "World",
+        "ability": "Dungeon experience",
+        "summary": "Dungeon kills award approximately 20% more XP. Low-level enemy penalties again use each player's level; the restriction for extremely different party levels remains.",
+        "impact": "update",
+        "valueText": "About +20% dungeon kill XP",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false,
+        "category": "dungeons"
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:hunter-expose-prey-oct8",
+        "className": "Hunter",
+        "ability": "Expose Prey",
+        "summary": "Expose Prey remains active longer after it is applied, extending its useful window.",
+        "impact": "buff",
+        "valueText": "Duration: 5 s → 10 s",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:legacy-grant",
+        "className": "World",
+        "ability": "Beta Legacy point grant",
+        "summary": "Blizzard reports completing the 16-point Legacy grant for beta testers. This is later fulfillment evidence, rather than the earlier promise; individual player receipt was not independently checked.",
+        "impact": "update",
+        "valueText": "16 Legacy points reported granted",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:mage-low-rank-growth-oct8",
+        "className": "Mage",
+        "ability": "Early Frostbolt, Fireball and Arcane Missiles",
+        "summary": "Blizzard adjusted early spell ranks for smoother damage progression. The post does not supply a complete before-and-after damage table.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:paladin-retribution-aura-oct8",
+        "className": "Paladin",
+        "ability": "Retribution Aura",
+        "summary": "Retribution Aura receives less damage from spell power. Its base damage is also reduced separately; the coefficient alone does not describe total damage.",
+        "impact": "nerf",
+        "valueText": "Spell-power coefficient: 13.3% → 6%",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:priest-penance-oct8",
+        "className": "Priest",
+        "ability": "Penance",
+        "summary": "Channel calculations and rank-specific healing and mana costs were adjusted. Effects differ across ranks, so this is a mixed change rather than an overall buff or nerf.",
+        "impact": "mixed",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:shaman-elemental-focus-oct8",
+        "className": "Shaman",
+        "ability": "Elemental Focus and Fire Nova",
+        "summary": "Fire Nova should no longer immediately consume an Elemental Focus effect that it has just triggered.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:warlock-summon-pet-oct8",
+        "className": "Warlock",
+        "ability": "Replacing a summoned demon",
+        "summary": "The existing demon is stunned while a replacement summon is being cast.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-5:warrior-demoralizing-shout-oct8",
+        "className": "Warrior",
+        "ability": "Demoralizing Shout",
+        "summary": "Demoralizing Shout again generates threat against affected enemies. This change does not resolve the separate older Rage wording conflict.",
+        "impact": "fix",
+        "valueText": "",
+        "date": "2026-10-08",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/5",
+        "postTitle": "WoW Forever Beta Development Notes – Updated October 8",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2360696:post:5",
+      "sourceRevision": "d62214f77be357651137450c59fe065550015a56b65f286a1bc50f2efc804952",
       "reviewStatus": "approved"
     },
     {
