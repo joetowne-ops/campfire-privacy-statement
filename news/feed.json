@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 2,
-  "generatedAt": "2026-10-13T22:49:25Z",
+  "sequence": 3,
+  "generatedAt": "2026-10-13T23:12:11Z",
   "sourceCheckedAt": "2026-10-13T13:01:28.282399+00:00",
   "posts": [
     {
@@ -19,7 +19,9 @@
         "publishedAt": "2026-10-03T18:25:55Z",
         "updatedAt": "2026-10-03T18:25:55Z",
         "revision": "7455234f889a2b9c43f65101763cbfe67256b82d82eead70a21e1250eb2f65b1"
-      }
+      },
+      "sourceTitle": "WoW Forever Beta Known Issues - October 8",
+      "authorName": "Kaivax"
     },
     {
       "id": "blizzard:us:topic:2352687:post:7",
@@ -35,7 +37,9 @@
         "publishedAt": "2026-10-13T22:49:25Z",
         "updatedAt": "2026-10-13T22:49:25Z",
         "revision": "ae8259b6c2f06d77bd5a0b6c250697083f95538a41d523729eee8c63cde4e6c0"
-      }
+      },
+      "sourceTitle": "WoW Forever Beta Known Issues - October 8",
+      "authorName": "Kaivax"
     },
     {
       "id": "blizzard:us:topic:2359185:post:1",
@@ -51,7 +55,9 @@
         "publishedAt": "2026-10-03T18:25:55Z",
         "updatedAt": "2026-10-03T18:25:55Z",
         "revision": "a2d949a08dd61068a0c65031165140f77e63682023bf55a0cd923af31810d3a8"
-      }
+      },
+      "sourceTitle": "Auto-shoot Bug and Fix Incoming",
+      "authorName": "Kaivax"
     },
     {
       "id": "blizzard:us:topic:2360696:post:1",
@@ -67,7 +73,9 @@
         "publishedAt": "2026-10-03T18:25:55Z",
         "updatedAt": "2026-10-03T18:25:55Z",
         "revision": "49a2fa5cf15d895eb69b16cd7e59979a2d45d006ffaec6dd6bf4d9a657ca62e7"
-      }
+      },
+      "sourceTitle": "WoW Forever Beta Development Notes – Updated October 8",
+      "authorName": "Kaivax"
     },
     {
       "id": "blizzard:us:topic:2360696:post:4",
@@ -83,7 +91,9 @@
         "publishedAt": "2026-10-03T18:25:55Z",
         "updatedAt": "2026-10-03T18:25:55Z",
         "revision": "b857155684539e595266ee74c565b92c10f30093c159ad265420dbb27be4be62"
-      }
+      },
+      "sourceTitle": "WoW Forever Beta Development Notes – Updated October 8",
+      "authorName": "Kaivax"
     },
     {
       "id": "blizzard:us:topic:2360696:post:5",
@@ -99,7 +109,9 @@
         "publishedAt": "2026-10-13T22:49:25Z",
         "updatedAt": "2026-10-13T22:49:25Z",
         "revision": "ecad331dda625f0af7f8eec356316cb19d060085ab0e60e63298694d7e39ff27"
-      }
+      },
+      "sourceTitle": "WoW Forever Beta Development Notes – Updated October 8",
+      "authorName": "Kaivax"
     }
   ],
   "notes": [
