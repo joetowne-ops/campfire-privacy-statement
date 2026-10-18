@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 6,
-  "generatedAt": "2026-10-16T12:08:49Z",
-  "sourceCheckedAt": "2026-10-16T12:06:38.359021+00:00",
+  "sequence": 7,
+  "generatedAt": "2026-10-18T14:24:33Z",
+  "sourceCheckedAt": "2026-10-18T14:23:30.775525+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -118,8 +118,8 @@
       "title": "October 15 beta build: racial and class changes",
       "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/6",
       "publishedAt": "2026-10-16T00:15:23.135Z",
-      "updatedAt": "2026-10-16T00:15:23.135Z",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "updatedAt": "2026-10-16T20:50:17.693Z",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "stage": "beta",
       "product": "wow_forever",
       "verifiedStaff": true,
@@ -151,20 +151,38 @@
     },
     {
       "id": "blizzard:us:topic:2383617:post:1",
-      "title": "October 19 stress test",
+      "title": "October 21 stress test",
       "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2383617/1",
       "publishedAt": "2026-10-15T21:24:41.150Z",
-      "updatedAt": "2026-10-15T21:24:41.150Z",
-      "sourceRevision": "df6a26117b0f8ac6f3afd96154a55f74b04c6c91475a7019b69dc59499248671",
+      "updatedAt": "2026-10-16T22:39:15.317Z",
+      "sourceRevision": "8b8e7c3bec42d87441969b78ff24329a75c120f65bc6400d1d708d54f3bd4d0a",
       "stage": "beta",
       "product": "wow_forever",
       "verifiedStaff": true,
-      "sourceTitle": "WoW Forever Stress Test October 19",
+      "sourceTitle": "WoW Forever Stress Test October 21",
       "authorName": "Kaivax",
       "editorial": {
         "publishedAt": "2026-10-16T12:08:49Z",
-        "updatedAt": "2026-10-16T12:08:49Z",
-        "revision": "ee10bc8b8b2b604eb396aedf66eb42871ce1728807a6480021ca0b1d66908306"
+        "updatedAt": "2026-10-18T14:24:33Z",
+        "revision": "413fbee7a47ac80e0086e4477d10dc21c79e7bd4eb71b5f51fda497a757efe90"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2384010:post:56",
+      "title": "Cat Form relic-looting hotfix",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2384010/56",
+      "publishedAt": "2026-10-16T17:56:38.720Z",
+      "updatedAt": "2026-10-16T17:56:38.720Z",
+      "sourceRevision": "40c2aed6833a02967036267eae87e5da69b8a6ec1e5d84c714b561976ecf6588",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "Druid cat form quest",
+      "authorName": "Kaivax",
+      "editorial": {
+        "publishedAt": "2026-10-18T14:24:33Z",
+        "updatedAt": "2026-10-18T14:24:33Z",
+        "revision": "ed29c9828ccf87fd62cf26f87155022334bd1b2e4cee6d6fe85fe29df9a7e306"
       }
     }
   ],
@@ -1024,7 +1042,7 @@
         "isPlanned": false
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1042,7 +1060,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1059,7 +1077,7 @@
         "isPlanned": false
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1077,7 +1095,7 @@
         "category": "dungeons"
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1094,7 +1112,7 @@
         "isPlanned": false
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1112,7 +1130,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1129,7 +1147,7 @@
         "isPlanned": false
       },
       "postID": "blizzard:us:topic:2360696:post:6",
-      "sourceRevision": "affb055322b21de71bc3b6a4a1b0d46436066930807a23fc3ce7240bbaa2164f",
+      "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
       "reviewStatus": "approved"
     },
     {
@@ -1165,25 +1183,43 @@
         "postTitle": "WoW Forever Stress Test October 19"
       },
       "postID": "blizzard:us:topic:2383617:post:1",
-      "sourceRevision": "df6a26117b0f8ac6f3afd96154a55f74b04c6c91475a7019b69dc59499248671",
+      "sourceRevision": "8b8e7c3bec42d87441969b78ff24329a75c120f65bc6400d1d708d54f3bd4d0a",
       "reviewStatus": "approved"
     },
     {
       "entry": {
         "id": "blizzard-forum-2383617-post-1:stress-test-schedule",
         "className": "World",
-        "ability": "October 19 stress test",
-        "summary": "Blizzard plans a regional stress test on October 19: 19:00 CEST in Europe and 2:00 p.m. PDT in the Americas and Oceania. Taipei begins at 5:00 a.m. and Korea at 6:00 a.m. on October 20.",
+        "ability": "Stress test moved to October 21",
+        "summary": "Blizzard rescheduled the regional stress test to October 21: 19:00 CEST in Europe and 2:00 p.m. PDT in the Americas and Oceania. Taipei begins at 5:00 a.m. and Korea at 6:00 a.m. on October 22.",
         "impact": "planned event",
-        "valueText": "October 19–20",
+        "valueText": "October 21–22",
         "date": "2026-10-15",
         "isPlanned": true,
         "category": "gameplay",
         "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2383617/1",
-        "postTitle": "WoW Forever Stress Test October 19"
+        "postTitle": "WoW Forever Stress Test October 21"
       },
       "postID": "blizzard:us:topic:2383617:post:1",
-      "sourceRevision": "df6a26117b0f8ac6f3afd96154a55f74b04c6c91475a7019b69dc59499248671",
+      "sourceRevision": "8b8e7c3bec42d87441969b78ff24329a75c120f65bc6400d1d708d54f3bd4d0a",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2384010-post-56:cat-form-relic-looting-hotfix",
+        "className": "Druid",
+        "ability": "Cat Form relic-looting hotfix",
+        "summary": "Blizzard reports a beta hotfix that restores looting of the relics needed to acquire Druid Cat Form.",
+        "impact": "bug fix",
+        "valueText": "Relic looting restored",
+        "date": "2026-10-16",
+        "isPlanned": false,
+        "category": "gameplay",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2384010/56",
+        "postTitle": "Druid cat form quest"
+      },
+      "postID": "blizzard:us:topic:2384010:post:56",
+      "sourceRevision": "40c2aed6833a02967036267eae87e5da69b8a6ec1e5d84c714b561976ecf6588",
       "reviewStatus": "approved"
     },
     {
