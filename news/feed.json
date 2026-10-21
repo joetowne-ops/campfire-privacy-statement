@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 9,
-  "generatedAt": "2026-10-20T17:50:16Z",
-  "sourceCheckedAt": "2026-10-20T15:59:06.933466+00:00",
+  "sequence": 10,
+  "generatedAt": "2026-10-21T12:04:30Z",
+  "sourceCheckedAt": "2026-10-21T11:59:47.458486+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -183,6 +183,24 @@
         "publishedAt": "2026-10-18T14:24:33Z",
         "updatedAt": "2026-10-18T14:24:33Z",
         "revision": "ed29c9828ccf87fd62cf26f87155022334bd1b2e4cee6d6fe85fe29df9a7e306"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2387920:post:1",
+      "title": "October 21 beta pause and stress-test reminder",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2387920/1",
+      "publishedAt": "2026-10-20T20:30:35.322Z",
+      "updatedAt": "2026-10-20T20:30:35.322Z",
+      "sourceRevision": "2395cd5aebd658cea8e10425b70e9b24b9e8a417959ab27af17670cfab07e1d6",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "Heads Up -- WoW Forever Stress Test on October 21",
+      "authorName": "Kaivax",
+      "editorial": {
+        "publishedAt": "2026-10-21T12:04:30Z",
+        "updatedAt": "2026-10-21T12:04:30Z",
+        "revision": "a8c174ef94e818d9b5cfc6c18f9f1e8bcdaaa908f555fce18d9644e955af1d97"
       }
     }
   ],
@@ -1220,6 +1238,24 @@
       },
       "postID": "blizzard:us:topic:2384010:post:56",
       "sourceRevision": "40c2aed6833a02967036267eae87e5da69b8a6ec1e5d84c714b561976ecf6588",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2387920-post-1:beta-pause-and-stress-test-reminder",
+        "className": "World",
+        "ability": "Beta pause planned ahead of October 21 stress test",
+        "summary": "Blizzard plans to take the beta offline before opening regional servers for the October 21 stress test. Any WoW account can join without an active subscription; the listed Eastern window is 5–9 p.m. EDT.",
+        "impact": "planned event",
+        "valueText": "October 21 · 5–9 p.m. EDT",
+        "date": "2026-10-20",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2387920/1",
+        "postTitle": "Heads Up -- WoW Forever Stress Test on October 21",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2387920:post:1",
+      "sourceRevision": "2395cd5aebd658cea8e10425b70e9b24b9e8a417959ab27af17670cfab07e1d6",
       "reviewStatus": "approved"
     },
     {
