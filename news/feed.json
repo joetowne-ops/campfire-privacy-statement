@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 10,
-  "generatedAt": "2026-10-21T12:04:30Z",
-  "sourceCheckedAt": "2026-10-21T11:59:47.458486+00:00",
+  "sequence": 11,
+  "generatedAt": "2026-10-22T15:40:07Z",
+  "sourceCheckedAt": "2026-10-22T15:35:45.323453+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -201,6 +201,24 @@
         "publishedAt": "2026-10-21T12:04:30Z",
         "updatedAt": "2026-10-21T12:04:30Z",
         "revision": "a8c174ef94e818d9b5cfc6c18f9f1e8bcdaaa908f555fce18d9644e955af1d97"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2389150:post:1",
+      "title": "Beta reopening delay reported",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2389150/1",
+      "publishedAt": "2026-10-22T01:46:44.190Z",
+      "updatedAt": "2026-10-22T01:46:44.190Z",
+      "sourceRevision": "11efa563727bc75fef4c80af78b141d835fc2554faf48057d2e6bf4b7e82e63a",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "Forever Beta Will Return Shortly",
+      "authorName": "Zorbrix",
+      "editorial": {
+        "publishedAt": "2026-10-22T15:40:07Z",
+        "updatedAt": "2026-10-22T15:40:07Z",
+        "revision": "dac2415e6db34f4db4b28105a4eeae5ef0af9f972e8891f366ab4b185fac268a"
       }
     }
   ],
@@ -1256,6 +1274,24 @@
       },
       "postID": "blizzard:us:topic:2387920:post:1",
       "sourceRevision": "2395cd5aebd658cea8e10425b70e9b24b9e8a417959ab27af17670cfab07e1d6",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2389150-post-1:beta-reopening-delay",
+        "className": "World",
+        "ability": "Beta reopening delay reported",
+        "summary": "In an October 21 evening update, Blizzard reported a delay while bringing the beta back online and said restoration work was underway. This report does not establish the current server status.",
+        "impact": "reported issue",
+        "valueText": "",
+        "date": "2026-10-22",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2389150/1",
+        "postTitle": "Forever Beta Will Return Shortly",
+        "isPlanned": false,
+        "category": "known_issues"
+      },
+      "postID": "blizzard:us:topic:2389150:post:1",
+      "sourceRevision": "11efa563727bc75fef4c80af78b141d835fc2554faf48057d2e6bf4b7e82e63a",
       "reviewStatus": "approved"
     },
     {
