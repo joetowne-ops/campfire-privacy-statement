@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 11,
-  "generatedAt": "2026-10-22T15:40:07Z",
-  "sourceCheckedAt": "2026-10-22T15:35:45.323453+00:00",
+  "sequence": 12,
+  "generatedAt": "2026-10-23T14:13:36Z",
+  "sourceCheckedAt": "2026-10-23T14:07:13.871033+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -219,6 +219,24 @@
         "publishedAt": "2026-10-22T15:40:07Z",
         "updatedAt": "2026-10-22T15:40:07Z",
         "revision": "dac2415e6db34f4db4b28105a4eeae5ef0af9f972e8891f366ab4b185fac268a"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2389801:post:1",
+      "title": "Beta restart announced for October 22",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2389801/1",
+      "publishedAt": "2026-10-22T20:19:58.313Z",
+      "updatedAt": "2026-10-22T20:19:58.313Z",
+      "sourceRevision": "41ddc4bc5b7afd69802b13212ec46d770f39367adb79aee612432abbb3187503",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "Beta Realm Restart Today At 2:00 p.m. PDT",
+      "authorName": "Kaivax",
+      "editorial": {
+        "publishedAt": "2026-10-23T14:13:36Z",
+        "updatedAt": "2026-10-23T14:13:36Z",
+        "revision": "7cd25072670cf3c0a1776604fdc98272d0daca89fc208cad60adcda7654ffae0"
       }
     }
   ],
@@ -1292,6 +1310,24 @@
       },
       "postID": "blizzard:us:topic:2389150:post:1",
       "sourceRevision": "11efa563727bc75fef4c80af78b141d835fc2554faf48057d2e6bf4b7e82e63a",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2389801-post-1:october22-beta-restart-plan",
+        "className": "World",
+        "ability": "Beta restart announced for October 22",
+        "summary": "An October 22 notice scheduled a brief beta restart for 2 p.m. PDT (5 p.m. EDT). This historical announcement does not confirm that the restart finished or establish the current server status.",
+        "impact": "planned restart",
+        "valueText": "",
+        "date": "2026-10-22",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2389801/1",
+        "postTitle": "Beta Realm Restart Today At 2:00 p.m. PDT",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2389801:post:1",
+      "sourceRevision": "41ddc4bc5b7afd69802b13212ec46d770f39367adb79aee612432abbb3187503",
       "reviewStatus": "approved"
     },
     {
