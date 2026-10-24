@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 12,
-  "generatedAt": "2026-10-23T14:13:36Z",
-  "sourceCheckedAt": "2026-10-23T14:07:13.871033+00:00",
+  "sequence": 13,
+  "generatedAt": "2026-10-24T12:54:18Z",
+  "sourceCheckedAt": "2026-10-24T12:52:57.322164+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -237,6 +237,24 @@
         "publishedAt": "2026-10-23T14:13:36Z",
         "updatedAt": "2026-10-23T14:13:36Z",
         "revision": "7cd25072670cf3c0a1776604fdc98272d0daca89fc208cad60adcda7654ffae0"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2390465:post:1",
+      "title": "Beta closed; character creation announced",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2390465/1",
+      "publishedAt": "2026-10-23T17:00:41.694Z",
+      "updatedAt": "2026-10-23T17:00:41.694Z",
+      "sourceRevision": "34d8128aa721b64669994013de5ab774bf72ea710c73e4be9bf483def8f68c12",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "Thank You For Testing the WoW Forever Beta",
+      "authorName": "Kaivax",
+      "editorial": {
+        "publishedAt": "2026-10-24T12:54:18Z",
+        "updatedAt": "2026-10-24T12:54:18Z",
+        "revision": "982ce70953bcfc39ea85be86718ce0fc132a905641ee68b839f46ad8afcf49d2"
       }
     }
   ],
@@ -1328,6 +1346,42 @@
       },
       "postID": "blizzard:us:topic:2389801:post:1",
       "sourceRevision": "41ddc4bc5b7afd69802b13212ec46d770f39367adb79aee612432abbb3187503",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "className": "World",
+        "valueText": "",
+        "date": "2026-10-23",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2390465/1",
+        "postTitle": "Thank You For Testing the WoW Forever Beta",
+        "category": "gameplay",
+        "id": "blizzard-forum-2390465-post-1:beta-closed-october23",
+        "ability": "Beta closed",
+        "summary": "Blizzard reported on October 23 that the WoW Forever beta had closed.",
+        "impact": "beta closed",
+        "isPlanned": false
+      },
+      "postID": "blizzard:us:topic:2390465:post:1",
+      "sourceRevision": "34d8128aa721b64669994013de5ab774bf72ea710c73e4be9bf483def8f68c12",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "className": "World",
+        "valueText": "",
+        "date": "2026-10-23",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2390465/1",
+        "postTitle": "Thank You For Testing the WoW Forever Beta",
+        "category": "gameplay",
+        "id": "blizzard-forum-2390465-post-1:character-creation-october27",
+        "ability": "Character creation announced for October 27",
+        "summary": "Blizzard plans to open character creation on October 27 ahead of the November 4 launch. These are announced dates; the post does not report either event as completed.",
+        "impact": "announced dates",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2390465:post:1",
+      "sourceRevision": "34d8128aa721b64669994013de5ab774bf72ea710c73e4be9bf483def8f68c12",
       "reviewStatus": "approved"
     },
     {
