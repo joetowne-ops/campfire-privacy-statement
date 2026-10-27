@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 15,
-  "generatedAt": "2026-10-26T19:03:09Z",
-  "sourceCheckedAt": "2026-10-26T15:21:02.297121+00:00",
+  "sequence": 16,
+  "generatedAt": "2026-10-27T21:14:25Z",
+  "sourceCheckedAt": "2026-10-27T16:51:21.226849+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -129,6 +129,24 @@
         "publishedAt": "2026-10-16T12:08:49Z",
         "updatedAt": "2026-10-16T12:08:49Z",
         "revision": "c8e5881e5def38c4fb05593fedf65b5928ef47aed28acb6a493ae3af2c6122a5"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2360696:post:7",
+      "title": "Prelaunch racial tuning update",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/7",
+      "publishedAt": "2026-10-26T20:35:27.223Z",
+      "updatedAt": "2026-10-27T16:47:14.099Z",
+      "sourceRevision": "c87481e78b0800634c6a4bfb2dc207dedd27eae92a739eb4805074ad15ae0660",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "WoW Forever Beta Development Notes – Updated October 26",
+      "authorName": "Kaivax",
+      "editorial": {
+        "publishedAt": "2026-10-27T21:14:25Z",
+        "updatedAt": "2026-10-27T21:14:25Z",
+        "revision": "f7836b9463f0699ff1190bcb83c975e18fdb6bf20ed8d1553d581d2039ddb29c"
       }
     },
     {
@@ -1769,6 +1787,96 @@
       },
       "postID": "blizzard:us:topic:2360696:post:4",
       "sourceRevision": "bea5ebda9eb15350733cd1d6b955d9ad9e08477b534239bd5e74a6df694d3956",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct26:racial-human-dwarf",
+        "className": "Gameplay",
+        "ability": "Human and Dwarf racial changes",
+        "summary": "Humans trade critical chance for Spirit. Dwarves lose Earth Fury’s critical-damage/healing bonus and gain Artisan’s Precision hit.",
+        "impact": "updated",
+        "valueText": "Ruthless: 2% → 1%; Human Spirit: 5% → 10%; Earth Fury: removed; Artisan’s Precision: +1% spell/attack hit",
+        "date": "2026-10-26",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/7",
+        "postTitle": "Prelaunch racial tuning update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:7",
+      "sourceRevision": "c87481e78b0800634c6a4bfb2dc207dedd27eae92a739eb4805074ad15ae0660",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct26:racial-orc-tauren",
+        "className": "Gameplay",
+        "ability": "Orc and Tauren racial changes",
+        "summary": "Orcs regain Command and lose Savage. Tauren Endurance retains only Health; Plainsrunning does not affect mounted speed.",
+        "impact": "updated",
+        "valueText": "Command: +5% Hunter/Warlock pet damage; Blood Fury: 3 → 2 min; Savage: removed; Endurance: +5% Health; Plainsrunning: 1% → 2%/stack, 30% → 60% cap",
+        "date": "2026-10-26",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/7",
+        "postTitle": "Prelaunch racial tuning update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:7",
+      "sourceRevision": "c87481e78b0800634c6a4bfb2dc207dedd27eae92a739eb4805074ad15ae0660",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct26:racial-skyborne-regeneration",
+        "className": "Gameplay",
+        "ability": "Skyborne haste and regeneration changes",
+        "summary": "Read Leyline cannot be used during Innervate and is superseded by it. Using Read Leyline at a Ley Line grants Attuned, doubling its regeneration benefit.",
+        "impact": "updated",
+        "valueText": "Wind-Blessed: 3% → 2% haste; Read Leyline: +100% → +50% Mana/Health regeneration for 15 sec; Attuned: +100%",
+        "date": "2026-10-26",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/7",
+        "postTitle": "Prelaunch racial tuning update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:7",
+      "sourceRevision": "c87481e78b0800634c6a4bfb2dc207dedd27eae92a739eb4805074ad15ae0660",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct26:racial-skyborne-speed",
+        "className": "Gameplay",
+        "ability": "Skyborne movement and attunement changes",
+        "summary": "Using Skysight at an elemental convergence grants Charged, boosting Skysight to 30% speed. Charged and Attuned last one hour, survive death and clear on raid entry.",
+        "impact": "updated",
+        "valueText": "Skysight: 10% → 15% speed for 15 sec",
+        "date": "2026-10-26",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/7",
+        "postTitle": "Prelaunch racial tuning update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:7",
+      "sourceRevision": "c87481e78b0800634c6a4bfb2dc207dedd27eae92a739eb4805074ad15ae0660",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "campfire:oct26:racial-troll-undead",
+        "className": "Gameplay",
+        "ability": "Troll and Undead racial changes",
+        "summary": "Berserking lasts longer; Touch of the Grave can trigger more often.",
+        "impact": "updated",
+        "valueText": "Berserking: 10 → 15 sec; Touch of the Grave internal cooldown: 25 → 15 sec",
+        "date": "2026-10-26",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/7",
+        "postTitle": "Prelaunch racial tuning update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:7",
+      "sourceRevision": "c87481e78b0800634c6a4bfb2dc207dedd27eae92a739eb4805074ad15ae0660",
       "reviewStatus": "approved"
     },
     {
