@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 21,
-  "generatedAt": "2026-11-02T13:07:17Z",
-  "sourceCheckedAt": "2026-11-02T13:05:43.958387+00:00",
+  "sequence": 22,
+  "generatedAt": "2026-11-03T13:26:09Z",
+  "sourceCheckedAt": "2026-11-03T13:19:16.848881+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -147,6 +147,24 @@
         "publishedAt": "2026-10-27T21:14:25Z",
         "updatedAt": "2026-10-27T21:14:25Z",
         "revision": "f7836b9463f0699ff1190bcb83c975e18fdb6bf20ed8d1553d581d2039ddb29c"
+      }
+    },
+    {
+      "id": "blizzard:us:topic:2360696:post:9",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+      "publishedAt": "2026-11-03T03:20:33.210Z",
+      "updatedAt": "2026-11-03T03:20:33.210Z",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "authorName": "Kaivax",
+      "sourceTitle": "WoW Forever Beta Development Notes – Updated November 2",
+      "title": "WoW Forever development notes — November 2 update",
+      "editorial": {
+        "publishedAt": "2026-11-03T13:26:09Z",
+        "updatedAt": "2026-11-03T13:26:09Z",
+        "revision": "fed897e4a36cbec10aebc6558f74f01ac2893584245d25f708eb3347194573e6"
       }
     },
     {
@@ -1238,6 +1256,231 @@
       },
       "postID": "blizzard:us:topic:2360696:post:6",
       "sourceRevision": "6984e2e4a0de122b28aaae0927f47e2a7eec937a2288c2b0af9703be4489d4f7",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:druid",
+        "className": "Druid",
+        "ability": "Druid threat, Feral access and Wild Growth",
+        "summary": "The Bear-form threat bonus rises from 50% to 115%. Lacerate becomes a Feral talent, while Wild Growth gains a 3-second base cast. These are selected changes from the pre-launch class update.",
+        "impact": "Announced update",
+        "valueText": "Bear threat 50% → 115%; Wild Growth 3s",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:gamepad",
+        "className": "General",
+        "ability": "Gamepad gameplay and interface update",
+        "summary": "Blizzard reports controller support for core gameplay and interface use, including targeting and bag fixes, early flight stops and profession-trainer fixes. The full post lists the controller changes.",
+        "impact": "Announced update",
+        "valueText": "Core gameplay, interface and controller fixes",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:hunter",
+        "className": "Hunter",
+        "ability": "Hunter traps and shot damage",
+        "summary": "All traps share a 30-second cooldown. Aimed Shot bonus damage rises by about 110%; Arcane Shot base damage rises by about 30%, with its Attack Power coefficient moving from 0.1 to 0.15.",
+        "impact": "Announced update",
+        "valueText": "Shared traps 30s; Arcane Shot coefficient 0.1 → 0.15",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:lordaeron-quests",
+        "className": "General",
+        "ability": "Ruins of Lordaeron quest minimum standardized",
+        "summary": "Ruins of Lordaeron dungeon quests now consistently start at level 15, replacing mixed 15/16 requirements, with some prerequisites adjusted. This is a quest requirement, not evidence of the dungeon’s admission level.",
+        "impact": "Announced update",
+        "valueText": "Dungeon quests level 15",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true,
+        "category": "dungeons"
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:mage",
+        "className": "Mage",
+        "ability": "Mage spell and cooldown changes",
+        "summary": "Frost Blast is removed. Arcane Blast adds 100% Mana cost per stack, with its stacking effect lasting 18 seconds. Ice Lance gets an 8-second cooldown shared with Fire Blast.",
+        "impact": "Announced update",
+        "valueText": "Arcane Blast 100% per stack; Ice Lance 8s shared",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:paladin",
+        "className": "Paladin",
+        "ability": "Paladin threat changes and Salvation removal",
+        "summary": "Righteous Fury becomes trainable at level 10, with 33% more total threat plus 90% additional threat from Holy damage. Salvation, Mass Salvation and Revoke are removed; the full source details extensive talent changes.",
+        "impact": "Announced update",
+        "valueText": "Righteous Fury level 10; +33% total threat, +90% from Holy damage",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:priest",
+        "className": "Priest",
+        "ability": "Priest self-damage and healing changes",
+        "summary": "Shadow Word: Death deals 30% maximum Health in self-damage when it fails to kill, but none on a miss. Holy Binding replaces Binding Heal: Flash Heal on another target also heals the Priest for 50% of its healing.",
+        "impact": "Announced update",
+        "valueText": "Shadow Word: Death 30%; Holy Binding 50%",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:rogue",
+        "className": "Rogue",
+        "ability": "Rogue gains Poised and Shank",
+        "summary": "Poised arrives at level 18, reducing the next Energy ability’s cost after reaching full Energy outside combat. Shank arrives at 24: it costs 5 Energy, generates 15 and cannot miss; rank 2 at 44 generates 25.",
+        "impact": "Announced update",
+        "valueText": "Poised level 18; Shank level 24; rank 2 at 44",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:shaman",
+        "className": "Shaman",
+        "ability": "Shaman Stormstrike and Riptide changes",
+        "summary": "Stormstrike rises to 150% normalized weapon damage with a 6-second cooldown. Lightning Overload reaches 10/20/30% proc chance. Riptide becomes healing-over-time only and its cooldown increases to 12 seconds.",
+        "impact": "Announced update",
+        "valueText": "Stormstrike 150% / 6s; Riptide 12s",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:training",
+        "className": "General",
+        "ability": "Class training costs and action bars",
+        "summary": "Blizzard places total level 1–60 class training at 206–207 gold, with Warlock costs adjusted for pet grimoires. Learning a spell no longer automatically adds it to the action bars.",
+        "impact": "Announced update",
+        "valueText": "Level 1–60 training 206–207g",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:warlock",
+        "className": "Warlock",
+        "ability": "Warlock pet scaling and Wrack changes",
+        "summary": "Pets receive 2 Health per point of their master’s Stamina instead of 7.5. Wrack’s spell-damage coefficient doubles, while its base damage per second at level 60 rises from 36 to 86.",
+        "impact": "Announced update",
+        "valueText": "Pet scaling 7.5 → 2; Wrack level 60 base 36 → 86",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:warrior",
+        "className": "Warrior",
+        "ability": "Warrior threat and Slam tuning",
+        "summary": "Defensive Stance’s threat bonus rises from 30% to 80%; Defiance becomes 7/13/20%. Slam’s cooldown falls from 18 to 15 seconds. The full source includes additional talent moves and new Fury options.",
+        "impact": "Announced update",
+        "valueText": "Defensive Stance 80%; Slam 15s",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:world",
+        "className": "General",
+        "ability": "Launch-focused respawns and quest adjustments",
+        "summary": "Respawns are adjusted for launch crowds, with faster starting areas and slower rates at higher levels. Blizzard plans to reduce low-level rates after the initial surge; quest experience and prerequisites also change.",
+        "impact": "Announced update",
+        "valueText": "Zone-specific rates unspecified",
+        "date": "2026-11-03",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
       "reviewStatus": "approved"
     },
     {
