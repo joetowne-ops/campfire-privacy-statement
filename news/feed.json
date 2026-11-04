@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 22,
-  "generatedAt": "2026-11-03T13:26:09Z",
-  "sourceCheckedAt": "2026-11-03T13:19:16.848881+00:00",
+  "sequence": 23,
+  "generatedAt": "2026-11-04T15:46:18Z",
+  "sourceCheckedAt": "2026-11-04T15:28:28.060565+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -153,8 +153,8 @@
       "id": "blizzard:us:topic:2360696:post:9",
       "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
       "publishedAt": "2026-11-03T03:20:33.210Z",
-      "updatedAt": "2026-11-03T03:20:33.210Z",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "updatedAt": "2026-11-04T02:12:27.460Z",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "stage": "beta",
       "product": "wow_forever",
       "verifiedStaff": true,
@@ -163,8 +163,8 @@
       "title": "WoW Forever development notes — November 2 update",
       "editorial": {
         "publishedAt": "2026-11-03T13:26:09Z",
-        "updatedAt": "2026-11-03T13:26:09Z",
-        "revision": "fed897e4a36cbec10aebc6558f74f01ac2893584245d25f708eb3347194573e6"
+        "updatedAt": "2026-11-04T15:46:18Z",
+        "revision": "4e98150ed09fad26ca0cd2cc4ae9a44c9301486825755927dfa771d9bc544169"
       }
     },
     {
@@ -1272,17 +1272,34 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-9:druid-swiftmend",
+        "className": "Druid",
+        "ability": "Swiftmend tooltip clarification",
+        "summary": "Blizzard clarifies that Swiftmend does not consume Rejuvenation or Regrowth. The effect must be one applied by the casting Druid. The tooltip incorrectly says it is consumed; a text correction is planned.",
+        "impact": "Clarification",
+        "valueText": "Own Rejuvenation or Regrowth not consumed",
+        "date": "2026-11-04",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
+        "postTitle": "WoW Forever development notes — November 2 update",
+        "isPlanned": true
+      },
+      "postID": "blizzard:us:topic:2360696:post:9",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
       "entry": {
         "id": "blizzard-forum-2360696-post-9:gamepad",
         "className": "General",
-        "ability": "Gamepad gameplay and interface update",
-        "summary": "Blizzard reports controller support for core gameplay and interface use, including targeting and bag fixes, early flight stops and profession-trainer fixes. The full post lists the controller changes.",
+        "ability": "Gamepad support remains in functional beta",
+        "summary": "Blizzard now describes controller support as a functional beta. Core gameplay and interface use are supported; the post also lists targeting and bag fixes, early flight stops and profession-trainer fixes.",
         "impact": "Announced update",
-        "valueText": "Core gameplay, interface and controller fixes",
+        "valueText": "Functional beta; core gameplay and interface support",
         "date": "2026-11-03",
         "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
         "postTitle": "WoW Forever development notes — November 2 update",
@@ -1290,7 +1307,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1307,7 +1324,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1325,7 +1342,7 @@
         "category": "dungeons"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1342,7 +1359,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1359,7 +1376,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1376,7 +1393,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1393,7 +1410,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1410,7 +1427,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1428,7 +1445,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1445,7 +1462,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1462,7 +1479,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
@@ -1480,7 +1497,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "59f161f0e3f7f101d4038ef94589098241017f50a0964ba1fa8e8e4debf5814c",
+      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
       "reviewStatus": "approved"
     },
     {
