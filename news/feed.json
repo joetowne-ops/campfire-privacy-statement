@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "publisher": "campfire",
-  "sequence": 23,
-  "generatedAt": "2026-11-04T15:46:18Z",
-  "sourceCheckedAt": "2026-11-04T15:28:28.060565+00:00",
+  "sequence": 24,
+  "generatedAt": "2026-11-05T21:34:03Z",
+  "sourceCheckedAt": "2026-11-05T20:13:50.139170+00:00",
   "posts": [
     {
       "id": "blizzard:us:topic:2352687:post:6",
@@ -76,6 +76,24 @@
       },
       "sourceTitle": "WoW Forever Beta Development Notes – Updated October 8",
       "authorName": "Kaivax"
+    },
+    {
+      "id": "blizzard:us:topic:2360696:post:10",
+      "title": "Beta UI and accessibility update",
+      "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/10",
+      "publishedAt": "2026-11-04T19:35:16.582Z",
+      "updatedAt": "2026-11-04T19:35:16.582Z",
+      "sourceRevision": "35c62c4b234e53765e6e06231d4b3163dadd9f3cb0bff8f0d41261bbfdefeb2a",
+      "stage": "beta",
+      "product": "wow_forever",
+      "verifiedStaff": true,
+      "sourceTitle": "WoW Forever Beta Development Notes – Updated November 2",
+      "authorName": "Kaivax",
+      "editorial": {
+        "publishedAt": "2026-11-05T21:34:03Z",
+        "updatedAt": "2026-11-05T21:34:03Z",
+        "revision": "ee498f96c89001415a4e27abccd81f6171ad6a2cfd9c489c2a368dd032d7f76c"
+      }
     },
     {
       "id": "blizzard:us:topic:2360696:post:4",
@@ -153,8 +171,8 @@
       "id": "blizzard:us:topic:2360696:post:9",
       "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/9",
       "publishedAt": "2026-11-03T03:20:33.210Z",
-      "updatedAt": "2026-11-04T02:12:27.460Z",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "updatedAt": "2026-11-04T19:35:27.266Z",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "stage": "beta",
       "product": "wow_forever",
       "verifiedStaff": true,
@@ -364,6 +382,60 @@
       },
       "postID": "blizzard:us:topic:2359185:post:1",
       "sourceRevision": "310434f4877dc766de434ceeff60d4761d288127d2a4e80c0b6a777583243fe2",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-10:combat-and-inventory-display",
+        "className": "World",
+        "ability": "Combat and inventory display",
+        "summary": "Blizzard reports beta UI changes: the swing timer stays visible through the swing when distance changes, combined-bag slots identify their original bag, elite enemies regain their nameplate marker, and nameplate debuff icons allow clicks through them.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-11-04",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/10",
+        "postTitle": "Beta UI and accessibility update",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:10",
+      "sourceRevision": "35c62c4b234e53765e6e06231d4b3163dadd9f3cb0bff8f0d41261bbfdefeb2a",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-10:pvp-feedback",
+        "className": "World",
+        "ability": "PvP scoreboard and Honor feedback",
+        "summary": "Blizzard reports an updated PvP scoreboard. At the Honor cap, player kills no longer display Honor gains in floating text or chat, according to these beta notes.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-11-04",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/10",
+        "postTitle": "Beta UI and accessibility update",
+        "isPlanned": false,
+        "category": "pvp"
+      },
+      "postID": "blizzard:us:topic:2360696:post:10",
+      "sourceRevision": "35c62c4b234e53765e6e06231d4b3163dadd9f3cb0bff8f0d41261bbfdefeb2a",
+      "reviewStatus": "approved"
+    },
+    {
+      "entry": {
+        "id": "blizzard-forum-2360696-post-10:spellbook-and-keybinds",
+        "className": "World",
+        "ability": "Spellbook and keybind controls",
+        "summary": "The beta notes describe a smaller combat-mode spellbook, consistent opening height for the Spellbook and Talents panels, and action-bar buttons that highlight when their binding is hovered in the keybind menu.",
+        "impact": "updated",
+        "valueText": "",
+        "date": "2026-11-04",
+        "sourceURL": "https://us.forums.blizzard.com/en/wow/t/2360696/10",
+        "postTitle": "Beta UI and accessibility update",
+        "isPlanned": false,
+        "category": "gameplay"
+      },
+      "postID": "blizzard:us:topic:2360696:post:10",
+      "sourceRevision": "35c62c4b234e53765e6e06231d4b3163dadd9f3cb0bff8f0d41261bbfdefeb2a",
       "reviewStatus": "approved"
     },
     {
@@ -1272,7 +1344,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1289,7 +1361,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1307,7 +1379,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1324,7 +1396,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1342,7 +1414,7 @@
         "category": "dungeons"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1359,7 +1431,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1376,7 +1448,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1393,7 +1465,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1410,7 +1482,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1427,7 +1499,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1445,7 +1517,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1462,7 +1534,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1479,7 +1551,7 @@
         "isPlanned": true
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
@@ -1497,7 +1569,7 @@
         "category": "gameplay"
       },
       "postID": "blizzard:us:topic:2360696:post:9",
-      "sourceRevision": "4ca297614058f8fe0cc0a27de2913500b41b0488683d8cd46a1fdb4925d430aa",
+      "sourceRevision": "46a9ec4937ce3ad1a0d6fab86663739dd3e23ecc9fb656192204b760a0cdbf77",
       "reviewStatus": "approved"
     },
     {
